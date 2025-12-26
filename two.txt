@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 two
-=======
-two
->>>>>>> origin/main
+'in local'
