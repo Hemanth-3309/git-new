@@ -1,2 +1,6 @@
 one
+<<<<<<< HEAD
 Hello
+=======
+'remote to local '
+>>>>>>> origin/main
